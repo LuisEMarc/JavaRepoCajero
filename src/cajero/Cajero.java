@@ -124,6 +124,7 @@ public class Cajero {
 	public static void main(String[] args) {
 
 		try {
+			//Esta será la nueva línea
 			System.out.println("Cajero automatico.");
 
 			int intentos = 3;
